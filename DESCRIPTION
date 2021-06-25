@@ -1,0 +1,16 @@
+Package: qsimage
+Title: Easy Saving and Loading of Sessions with `qs`
+Version: 0.0.1.9000
+Authors@R: 
+    person(given = "Mark",
+           family = "Sellors",
+           role = c("aut", "cre"),
+           email = "rstuff@5vcc.com")
+Description: RStudio Addin for Saving and Loading a Session with `qs`.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports:
+    qs
