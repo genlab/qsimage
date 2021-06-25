@@ -18,4 +18,4 @@ remotes::install_github("sellorm/qsimage")
 
 ## Usage
 
-The best way to the package is via the RStudio "Addins" drop down menu.
+The best way to use the package is via the RStudio "Addins" drop down menu.
